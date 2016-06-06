@@ -1,0 +1,6 @@
+{
+  "name": "Redhatsatellite.GitHub.io",
+  "tagline": "GitHub Page for RedHatSatellite",
+  "body": "### Welcome to Red Hat Satellite\r\n\r\nThis organization exists to provide a location to curate scripts/projects that Red Hat employees, customers, and community members have written for usage with Red Hat Satellite.  We would like to leverage this organization in the following manner\r\n\r\n* Provide a clearinghouse of well maintained tools known to work with a supported version of Satellite. \r\n* Allow users of Satellite to showcase their work and develop their brand. \r\n* Provide a process for content to eventually become part of the Foreman upstream (and eventually a proper part of the product). \r\n\r\n### Contributing\r\n\r\nTake a look at the [example](https://github.com/RedHatSatellite/example-scripts) repo for a template for how to structure your README\r\n\r\n\r\n### Maintainers\r\n\r\n* @sideangleside\r\n* @bkearney\r\n* @ehelms\r\n* @mccun934\r\n\r\n### Support or Contact\r\n\r\nHaving trouble? Reach out to the maintainers above. ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
